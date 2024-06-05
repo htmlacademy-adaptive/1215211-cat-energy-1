@@ -1,0 +1,1 @@
+const buttonShowAll=document.querySelector(".button--show-all");buttonShowAll.addEventListener("click",(function(t){t.preventDefault()}));
